@@ -10,3 +10,4 @@ seat cover
 =======
 this is the first line after git fetch. 
 >>>>>>> 041447c (from remote to the local machine)
+This file i'm  editing is from the NEWfeature branch and learning abt the new things in branching.
