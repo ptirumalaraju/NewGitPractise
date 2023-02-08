@@ -1,1 +1,7 @@
 Adding this to the git for letting know the usuage of the default editor.
+
+seat cover
+-blavk
+-blur
+-yellow
+-white
