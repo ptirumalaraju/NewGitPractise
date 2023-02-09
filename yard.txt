@@ -2,3 +2,4 @@ this is the second file which i'm goig to use for my git practise and with this 
  2 bags of potting soil
 - 1 bag of worm castings
 pot and pen with pencil
+this line is to learn the rebase insted of merge commit.
