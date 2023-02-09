@@ -8,3 +8,6 @@ seat cover
 ###this line is getting addded from the remote repo and trying to push to the local server.
 this is the first line after git fetch. 
 This file i'm  editing is from the NEWfeature branch and learning abt the new things in branching.
+
+
+this line is from the side branch .
